@@ -1,0 +1,12 @@
+{
+  "mochaExplorer.files": ["e2e/**/*.e2e.ts", "src/**/*.e2e.ts"],
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "mochaExplorer.env": {
+    "NODE_ENV": "test"
+  },
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  }
+}
